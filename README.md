@@ -13,6 +13,19 @@ The C3 Control Panel is an application to remotely control KUKA robots via the [
 * DirectX 9.0c
 * Xbox 360 Controller Driver for Windows (optional)
 
+## Screenshots
+##### Actual Position
+![Actual Position](https://github.com/ulsu-tech/c3bridge-client/raw/master/screenshots/actual_position.png)
+##### Watch List
+![Watch List](https://github.com/ulsu-tech/c3bridge-client/raw/master/screenshots/watch_list.png)
+##### Jog
+![Jog](https://github.com/ulsu-tech/c3bridge-client/raw/master/screenshots/jog.png)
+
+## Donate
+If you found this software useful, you can thank the author with donations via
+
+[![PayPal](https://github.com/ulsu-tech/c3bridge-server/raw/master/artwork/donate.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=vdm.inbox@gmail.com&lc=EN&item_name=C3BridgeInterface&no_note=0&currency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted) [![Yandex.Money](https://github.com/ulsu-tech/c3bridge-server/raw/master/artwork/donate_yandex.png)](https://money.yandex.ru/to/4100111653323774)
+
 ## License
 Copyright (c) 2020 Dmitry Lavygin (vdm.inbox@gmail.com)
 
@@ -120,9 +133,3 @@ This project contains following third-party components:
    Author: Mark James <mjames@gmail.com>
 
    License: Creative Commons Attribution 2.5 License
-
-
-## Donate
-If you found this software useful, you can thank the author with donations via
-
-[![PayPal](https://github.com/ulsu-tech/c3bridge-server/raw/master/artwork/donate.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=vdm.inbox@gmail.com&lc=EN&item_name=C3BridgeInterface&no_note=0&currency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted) [![Yandex.Money](https://github.com/ulsu-tech/c3bridge-server/raw/master/artwork/donate_yandex.png)](https://money.yandex.ru/to/4100111653323774)
