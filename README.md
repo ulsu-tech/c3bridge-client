@@ -8,6 +8,9 @@ The C3 Control Panel is an application to remotely control KUKA robots via the [
 * Actual Position Display
 * Jog, the manual control of robot movement (EXPERIMENTAL)
 
+## Changelog
+See the [document](CHANGELOG.md) for more information.
+
 ## System Requirements
 * Windows XP SP3 or later
 * DirectX 9.0c
@@ -24,10 +27,10 @@ The C3 Control Panel is an application to remotely control KUKA robots via the [
 ## Donate
 If you found this software useful, you can thank the author with donations via
 
-[![PayPal](https://github.com/ulsu-tech/c3bridge-server/raw/master/artwork/donate.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=vdm.inbox@gmail.com&lc=EN&item_name=C3BridgeInterface&no_note=0&currency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted) [![Yandex.Money](https://github.com/ulsu-tech/c3bridge-server/raw/master/artwork/donate_yandex.png)](https://money.yandex.ru/to/4100111653323774)
+[![PayPal](https://github.com/ulsu-tech/c3bridge-server/raw/master/artwork/donate.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=vdm.inbox@gmail.com&lc=EN&item_name=C3BridgeInterface&no_note=0&currency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted) [![Yoo Money](https://github.com/ulsu-tech/c3bridge-server/raw/master/artwork/donate_yoo.png)](https://yoomoney.ru/to/4100111653323774)
 
 ## License
-Copyright (c) 2020 Dmitry Lavygin (vdm.inbox@gmail.com)
+Copyright (c) 2020-2021 Dmitry Lavygin (vdm.inbox@gmail.com)
 
 S.P. Kapitsa Research Institute of Technology of Ulyanovsk State University.
 
